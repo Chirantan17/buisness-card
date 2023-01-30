@@ -1,0 +1,43 @@
+body 
+{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pic
+{
+    width: 150px;
+}
+.description
+{
+    text-align: center;
+}
+.card
+{
+    background: #ddebf8;
+    color:  #2b2839;
+    margin:auto auto;
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 5px solid #d8cefe;
+}
+.italic
+{
+    font-style: italic;
+}
+/*
+    margin and padding shorthand 
+    margin:top right bottom left;
+    
+    margin:10px auto;
+    
+    margin-top:10px;
+    margin-bottom: 10px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+*/
